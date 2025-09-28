@@ -70,7 +70,7 @@ Steps
 
 1. Load the dataset:
    import pandas as pd
-   df = pd.read_csv('accidents.csv')
+   df = pd.read_csv('Addis Abbaba City Data set.csv')
 
 2. Preprocessing (apply sequentially: missing values → encoding → outliers → scaling → feature selection → PCA)
 
